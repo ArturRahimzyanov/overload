@@ -1,0 +1,27 @@
+﻿  overloadF.cpp
+C:\Users\Артур\source\repos\overloadF\overloadF\overloadF.cpp(27,21): warning C4244: =: преобразование "T1" в "int", возможна потеря данных
+          with
+          [
+              T1=float
+          ]
+C:\Users\Артур\source\repos\overloadF\overloadF\overloadF.cpp(29,21): warning C4244: =: преобразование "T1" в "int", возможна потеря данных
+          with
+          [
+              T1=float
+          ]
+C:\Users\Артур\source\repos\overloadF\overloadF\overloadF.cpp(31,21): warning C4244: =: преобразование "T1" в "int", возможна потеря данных
+          with
+          [
+              T1=float
+          ]
+C:\Users\Артур\source\repos\overloadF\overloadF\overloadF.cpp(13,12): warning C4244: return: преобразование "int" в "T1", возможна потеря данных
+          with
+          [
+              T1=float
+          ]
+C:\Users\Артур\source\repos\overloadF\overloadF\overloadF.cpp(27): message : выполняется компиляция ссылки на экземпляр шаблон функции "T1 compair<float>(T1,T1)"
+          with
+          [
+              T1=float
+          ]
+  overloadF.vcxproj -> C:\Users\Артур\source\repos\overloadF\x64\Debug\overloadF.exe
